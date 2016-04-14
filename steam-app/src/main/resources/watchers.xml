@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<root>
+	<watcher>
+		<clazz>steam.watcher.MarketItemsWatcher</clazz>
+		<configuration>
+			<key>customConfig</key>
+			<value>420</value>
+		</configuration>
+	</watcher>
+</root>
